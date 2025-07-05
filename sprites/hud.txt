@@ -1,0 +1,109 @@
+91
+selection		320 320hud1	160	160	80	20
+
+bucket1			320 320hud1	240	0	12	12
+bucket2			320 320hud1	240	12	12	12
+bucket3			320 320hud1	240	24	12	12	
+bucket4			320 320hud1	240	36	12	12
+bucket5			320 320hud1	240	48	12	12					
+bucket0			320 320hud1	240	60	12	12
+
+//===========================================
+
+
+selection		640 640hud3	0	180	170	45
+
+bucket1			640 640hud6	0	180	20	20
+bucket2			640 640hud6	20	180	20	20		
+bucket3			640 640hud6	40	180	20	20		
+bucket4			640 640hud6	60	180	20	20		
+bucket5			640 640hud6	80	180	20	20		
+bucket0			640 640hud6	100	180	20	20		
+
+dmg_bio			640 640hud2	170	128	64	64
+dmg_poison		640 640hud2	170	0	64	64
+dmg_chem		640 640hud2	170	0	64	64
+dmg_cold		640 640hud3	170	64	64	64
+dmg_drown		640 640hud2	170	64	64	64
+dmg_heat		640 640hud3	170	128	64	64
+dmg_gas			640 640hud3	170	0	64	64
+dmg_rad			640 640hud3	170 192	64	64
+dmg_shock		640 640hud2	170 192	64	64
+
+number_0		640 health	0	96	24	36
+number_1		640 health	24	96	24	36
+number_2		640 health	48	96	24	36
+number_3		640 health	72	96	24	36
+number_4		640 health	96	96	24	36
+number_5		640 health	120	96	24	36
+number_6		640 health	144	96	24	36
+number_7		640 health	168	96	24	36
+number_8		640 health	192	96	24	36
+number_9		640 health	216	96	24	36
+
+//Ammo Numbers
+
+amnumber_0		640 health	0	136	16	22
+amnumber_1		640 health	16	136	16	22
+amnumber_2		640 health	32	136	16	22
+amnumber_3		640 health	48	136	16	22
+amnumber_4		640 health	64	136	16	22
+amnumber_5		640 health	80	136	16	22
+amnumber_6		640 health	96	136	16	22
+amnumber_7		640 health	112	136	16	22
+amnumber_8		640 health	128	136	16	22
+amnumber_9		640 health	144	136	16	22
+
+slash			640 health	160	136	16	22	
+
+airtank_empty 	640 apparatus 0	0 60 60
+airtank_full 	640 apparatus 120 0 60 60
+spring_empty 	640 apparatus 0 60 60 60
+spring_full 	640 apparatus 120 60 60 60
+flash_off 		640 apparatus 0 120 60 60
+flash_on 		640 apparatus 0 180 60 60
+syr_radiation 	640 apparatus 60 0 60 60
+syr_rad_lit 	640 apparatus 180 0 60 60
+syr_antidote 	640 apparatus 60 60 60 60
+syr_ant_lit 	640 apparatus 180 60 60 60
+syr_adrenaline 	640 apparatus 60 120 60 60
+syr_adr_lit 	640 apparatus 60 180 60 60
+flash_off_lit 	640 apparatus 120 120 60 60
+flash_on_lit	640 apparatus 120 180 60 60
+
+bord			640 health 104 48 32 40
+battery_empty	640 health 0 64 64 24
+battery_full	640 health 4 44 50 16
+
+small_1			640 health	0	160	20	20
+small_2			640 health	20	160	20	20
+small_3			640 health	40	160	20	20
+small_4			640 health	60	160	20	20
+small_5			640 health	80	160	20	20
+
+train_back		640	640hud5 170	0	72	72
+train_stop		640	640hud5 170	72	72	72
+train_forward1	640	640hud5 170	144	72	72
+train_forward2	640	640hud6 170	0	72	72
+train_forward3	640	640hud6 170	72	72	72
+
+d_crowbar		640	killfeed	192	0	48	16
+d_9mmhandgun	640	killfeed	192	16	32	16
+d_357			640	killfeed	192	32	32	16
+d_9mmAR			640	killfeed	192	48	48	16
+d_shotgun		640	killfeed	192	64	48	16
+d_bolt			640	killfeed	192	80	48	16
+d_crossbow		640	killfeed	192	80	48	16
+d_rpg_rocket	640	killfeed	192	96	48	16
+d_gauss			640	killfeed	192	112	32	16
+d_egon			640	killfeed	192	128	32	16
+d_hornet		640	killfeed	192	144	48	16
+d_grenade		640	killfeed	192	160	32	16
+d_satchel		640	killfeed	192	176	32	16
+d_tripmine		640	killfeed	192	192	32	16
+d_snark			640	killfeed	192	208	32	16
+d_skull			640	killfeed	192	224	32	16
+d_tracktrain	640	killfeed	192	240	32	16
+
+half-			640 640hud4	0	226	256	30
+life			640 640hud5	0	226	256	30

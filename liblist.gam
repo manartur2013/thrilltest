@@ -1,0 +1,13 @@
+//game "The Absolute Comedy of Shillver"
+//game "The Adventures of Steve Freeman"
+//game "Hood-Life 0.61: 2pacalypse"
+game "thrilltest"
+startmap "tr1a0"
+trainmap "ZOO_WEAPON"
+mpentity "info_player_deathmatch"
+gamedll "dlls\hl.dll"
+gamedll_linux "dlls/hl.so"
+gamedll_osx "dlls/hl.dylib"
+secure "1"
+type "singleplayer_only"
+
