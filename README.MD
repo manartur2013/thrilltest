@@ -73,33 +73,33 @@ The following maps TR3A1, TR3A2 and TR3A2A all have monster that shoots laser pr
 
 Below is a list of most of the maps and what kind of stuff they have in them:
 
-Tr1a0—starting level, lab
-Cgx—the Portal device
-Tr1a1—blown-up lab
-trans1—akira elevator
-Gd—crate conveyor.
-Tr1a2—offices
-Tr1a3—Your first minigun.
-Tr1a3c—where you see surface for the fist time
-Tr1a4—old rocket silo, now home for ugly tentacle monster
-Tr1a4c—cool generator. Beware of the bats, though.
-traincar—where you can drive the retrofuturistic train.
-Tr2a3a—scary fish.
-Tr2a3c—freezer with zombies in it
-Tr2a4-c—mostly peaceful platforming levels
-Tr2a5—boot camp.
-geo1-3—Cool desert base.
-Tr3a1b—broken radome
-Tr3a3—Quake-like level.
-Tr3a3a—THX sound system. Be sure to tune your volume down!
-Sfan—fight aliens and soldiers in a tight water canal.
-train—CRASH!
+Tr1a0—starting level, lab  
+Cgx—the Portal device  
+Tr1a1—blown-up lab  
+trans1—akira elevator  
+Gd—crate conveyor.  
+Tr1a2—offices  
+Tr1a3—Your first minigun.  
+Tr1a3c—where you see surface for the fist time  
+Tr1a4—old rocket silo, now home for ugly tentacle monster  
+Tr1a4c—cool generator. Beware of the bats, though.  
+traincar—where you can drive the retrofuturistic train.  
+Tr2a3a—scary fish.  
+Tr2a3c—freezer with zombies in it  
+Tr2a4-c—mostly peaceful platforming levels  
+Tr2a5—boot camp.  
+geo1-3—Cool desert base.  
+Tr3a1b—broken radome  
+Tr3a3—Quake-like level.  
+Tr3a3a—THX sound system. Be sure to tune your volume down!  
+Sfan—fight aliens and soldiers in a tight water canal.  
+train—CRASH!  
 
 ### Characters
 
-Snapbug - A huge alien insect that has no interest in you whatsoever. The only instance when it can hurt you is when you wander into its teeth by mistake. Very useful if you lure some headcrabs towards it.
-Panthereye - Or the Diablo. One of the most dangerous creatures that you may encounter. Very subtle creature, and its attacks are very rapid and deadly.
-Mr.Friendly - Huge, ugly creature that barely travels around. Don't be fooled by its clumsy movements, though, because it can kill you in one punch! God knows what it will do to your carcass afterwards!
+Snapbug - A huge alien insect that has no interest in you whatsoever. The only instance when it can hurt you is when you wander into its teeth by mistake. Very useful if you lure some headcrabs towards it.  
+Panthereye - Or the Diablo. One of the most dangerous creatures that you may encounter. Very subtle creature, and its attacks are very rapid and deadly.  
+Mr.Friendly - Huge, ugly creature that barely travels around. Don't be fooled by its clumsy movements, though, because it can kill you in one punch! God knows what it will do to your carcass afterwards!  
 
 ### Weapons
 - 9mm Glock: Weak rapid-fire gun, useful against early game enemies.
