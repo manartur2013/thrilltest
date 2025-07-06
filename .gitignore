@@ -1,2 +1,12 @@
 *.pdb
 *.dt
+*.nrp
+*.ext
+*.log
+*.map
+*.wa_
+*.prt
+*.nod
+*.dmf
+*.bmp
+*.sav
