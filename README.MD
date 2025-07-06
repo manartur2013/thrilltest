@@ -2,7 +2,7 @@
 
 This is a test build for Half-Life mod Thrill.
 
-You can run it through Steam version of Half-Life via Steam library or using the Batch files.
+You can run it through Steam version of Half-Life via Steam library or using the Batch files. The legacy version is more preferrable to use with THRILL.
 
 ### USEFUL CVARS:
 
@@ -66,7 +66,7 @@ MAP TR1A2  - Cold war era offices. Lots of Zombies.
 
 MAP TR1A3A - Laser corridor and gat gun turrets. Vent climbing and encounters with the military.
 
-MAP TR2A4D - Huge cavern with technodrome-like metallic structures in it. This is where you will find out that secret experiments the facility you worked at performed also involved some eerie alien creatures in them.
+MAP TR2A4D - Huge cavern with technodrome-like metallic structures in it. This is where you will find out that secret experiments the facility you worked at performed also involved some eerie alien creatures in them.  
 MAP	TR2A5  - Surface level with a lot of neat looking buildings.
 
 The following maps TR3A1, TR3A2 and TR3A2A all have monster that shoots laser projectiles at you called Steven. Be sure to dodge his projectiles in time or you may turn into a smoking pile of dust!
