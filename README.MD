@@ -44,6 +44,10 @@ sv_exptype (0-2)
 	
 	2) Alpha explosion with sprite
 	- same as previous, but with sprite effect
+
+sv_drawroute (0/1)
+
+	Shows NPC's walking paths if set to 1.
 	
 sv_ricochet (0/1)
 
