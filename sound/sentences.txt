@@ -595,6 +595,7 @@ HEV_E2 fvox/buzz, hev_critical_fail
 HEV_E3 fvox/buzz, hev_general_fail
 HEV_E4 fvox/buzz, hev_damage
 HEV_E5 fvox/buzz, powermove_overload
+HEV_E6 fvox/buzz, armor_compromised
 
 // time remaining countdown
 
