@@ -634,6 +634,7 @@ BA_WAIT2 barney/slowingyoudown
 BA_WAIT3 barney/illwait
 BA_WAIT4 barney/seeya
 BA_WAIT5 barney/standguard
+BA_WAIT5 barney/waitin
 
 BA_HELLO0 barney/hellonicesuit
 BA_HELLO1 barney/howdy
@@ -658,6 +659,7 @@ BA_QUESTION11 barney/crewdied
 BA_QUESTION12 barney/somethingmoves
 BA_QUESTION13 barney/thinking
 BA_QUESTION14 barney/missingleg
+BA_QUESTION15 barney/youeverseen
 
 BA_ANSWER0 barney/noway
 BA_ANSWER1 barney/ireckon
@@ -699,6 +701,7 @@ BA_IDLE7 barney/badfeeling
 BA_IDLE8 barney/ambush
 BA_IDLE9 barney/survive
 BA_IDLE10 barney/stophere
+BA_IDLE11 barney/whatgood
 
 BA_ATTACK0 barney/openfire(e50)
 BA_ATTACK1 barney/openfire(s50)
@@ -710,6 +713,7 @@ BA_ATTACK5 barney/aimforhead
 BA_HEAR0 barney/hearsomething
 BA_HEAR1 barney/icanhear
 BA_HEAR2 barney/soundsbad
+BA_HEAR3 barney/hearsomething2
 
 BA_SMELL0 barney/somethingdied
 BA_SMELL1 barney/somethingstinky
@@ -718,6 +722,8 @@ BA_SMELL2 barney/stench
 BA_CUREA barney/checkwounds
 BA_CUREB barney/youneedmedic
 BA_CUREC barney/realbadwound
+
+BA_PLDIE barney/ba_pain1
 
 BA_SCARED0 barney/donthurtem
 BA_SCARED1 barney/leavealone
@@ -852,6 +858,9 @@ SC_OK5 scientist/letsgo
 SC_OK6 scientist/yesletsgo
 SC_OK7 scientist/yes3
 SC_OK8 scientist/alright
+SC_OK9 scientist/yesok
+SC_OK10 scientist/okgetout
+SC_OK11 scientist/okihope
 
 SC_WAIT0 scientist/beenaburden
 SC_WAIT1 scientist/slowingyou
@@ -860,6 +869,7 @@ SC_WAIT3 scientist/whyleavehere
 SC_WAIT4 scientist/illwaithere
 SC_WAIT5 scientist/istay
 SC_WAIT6 scientist/illwait
+SC_WAIT7 scientist/leavingme
 
 // fail to follow player any more
 SC_STOP0 scientist/stop1
@@ -913,6 +923,7 @@ SC_ANSWER26 scientist/noguess
 SC_ANSWER27 scientist/stopasking
 SC_ANSWER28 scientist/justasked
 SC_ANSWER29 scientist/repeat
+SC_ANSWER30 scientist/shutup2
 
 SC_QUESTION0 scientist/everseen
 SC_QUESTION1 scientist/needsleep
@@ -941,6 +952,7 @@ SC_QUESTION23 scientist/announcer
 SC_QUESTION24 scientist/smellburn
 SC_QUESTION25 scientist/noidea
 SC_QUESTION26 scientist/whatnext
+SC_QUESTION27 scientist/fusionshunt
 
 SC_IDLE0 scientist/ipredictedthis
 SC_IDLE1 scientist/containfail
@@ -970,6 +982,7 @@ SC_SMELL0 scientist/somethingfoul
 SC_SMELL1 scientist/odorfromyou
 SC_SMELL2 scientist/peculiarodor
 SC_SMELL3 scientist/stench
+SC_SMELL4 scientist/peculiarodor
 
 SC_WOUND0 scientist/iwounded
 SC_WOUND1 scientist/iwounded2
@@ -989,6 +1002,7 @@ SC_HEAL4 scientist/youwounded, letstrythis
 SC_HEAL5 scientist/heal3
 SC_HEAL6 scientist/heal4
 SC_HEAL7 scientist/heal5
+SC_HEAL8 scientist/youlookbad2, letmehelp
 
 SC_PLFEAR0 scientist/whatyoudoing
 SC_PLFEAR1 scientist/canttakemore
@@ -1010,6 +1024,7 @@ SC_FEAR9 scientist/startle7
 SC_FEAR10 scientist/startle8
 SC_FEAR11 scientist/startle9
 SC_FEAR12 scientist/startle1
+SC_FEAR13 scientist/gottogetout
 
 SC_SCREAM0 scientist/sci_fear1
 SC_SCREAM1 scientist/sci_fear2
