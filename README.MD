@@ -32,11 +32,11 @@ hud_dmgfade (0/1)
 	
 	Toggles screenfade when receiving damage.
 	
-sv_exptype (0-2)
+cl_exptype (0-2)
 
 	Switches explosion effect. There are 3 options:
 	
-	0) Retail explosion
+	0) Sprite only
 	- self-explained
 	
 	1) Alpha explosion
